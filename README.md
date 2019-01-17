@@ -18,7 +18,7 @@ repositories {
 }  
 
 dependencies { 
-    compile 'com.github.fatangare.LogcatViewer:logcatviewer:aadf092447'
+    compile 'com.github.ericchen1207.LogcatViewer:logcatviewer:master-SNAPSHOT'
     }
 ```
 2. Add following code to launch LogcatViewer floating view. - To launch logcatviewer floating view.
